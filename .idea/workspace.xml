@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="f850ba9e-9b51-4dc5-bf28-da00dec86135" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -153,5 +154,18 @@
         </state>
       </provider>
     </entry>
+=======
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="397" />
+    <option name="y" value="23" />
+    <option name="width" value="806" />
+    <option name="height" value="730" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+>>>>>>> 49e51bbde43905619265b837f442936770c63acf
   </component>
 </project>
